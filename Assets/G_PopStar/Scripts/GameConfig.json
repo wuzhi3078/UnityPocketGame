@@ -1,0 +1,9 @@
+{
+	"CommonTypesStar": {
+		"Red": "Star_Red",
+		"Yellow" : "Star_Yellow",
+		"Blue" : "Star_Blue",
+		"Green":"Star_Green",
+		"Purple" :"Star_Purple"
+	}
+}
