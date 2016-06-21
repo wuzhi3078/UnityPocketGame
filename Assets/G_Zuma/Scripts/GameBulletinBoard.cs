@@ -25,7 +25,7 @@ public class GameBulletinBoard {
 	// 游戏策略
 	public static BallType GameStrategy () {
 		if (typeNumber < 0) {
-			typeNumber = UnityEngine.Random.Range (0, 2);
+			typeNumber = UnityEngine.Random.Range (1,2);
 			type = UnityEngine.Random.Range (0, 3);
 		}
 
